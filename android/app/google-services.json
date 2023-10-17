@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1089146405678",
+    "project_id": "sunnaticapp",
+    "storage_bucket": "sunnaticapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089146405678:android:392bb3d5eacd0db8fa70bf",
+        "android_client_info": {
+          "package_name": "com.example.sunnaticapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfDueaM4CrOmZlvupsOu3aNAbXPUCSENI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
