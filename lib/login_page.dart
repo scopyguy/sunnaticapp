@@ -5,6 +5,11 @@ import 'package:sunnaticapp/my_textfield.dart';
 import 'package:sunnaticapp/mybutton.dart';
 
 class LoginPage extends StatelessWidget {
+
+loginUser(String emailAddress, String password) {
+  
+}
+
   final void Function()? onTap;
   LoginPage({
     Key? key,
